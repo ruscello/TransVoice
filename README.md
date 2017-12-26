@@ -2,6 +2,7 @@
 
 [![Jenkins coverage](https://img.shields.io/jenkins/c/https/jenkins.qa.ubuntu.com/view/Utopic/view/All/job/address-book-service-utopic-i386-ci.svg?style=for-the-badge)]()
 [![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg?style=for-the-badge)]()
+
 テキストに入力された文章を行ごとに音声ファイル(mp3形式)に変換し出力します。
 
 ## Description
